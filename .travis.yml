@@ -1,7 +1,6 @@
 language: php
-install: composer install
+install: composer install --no-interaction --quiet --optimize-autoloader
 php:
-  - '5.5'
   - '5.6'
   - '7.0'
   - hhvm
