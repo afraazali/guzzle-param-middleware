@@ -1,5 +1,5 @@
 Guzzle Middleware that adds one or more query parameters to all requests
-for a guzzle client.
+for a client.
 
 ## Usage
 

@@ -1,6 +1,6 @@
 {
     "name": "emarref/guzzle-param-middleware",
-    "description": "Add query params silently to all requests.",
+    "description": "Guzzle Middleware that adds one or more query parameters to all requests for a client.",
     "type": "library",
     "require-dev": {
         "phpunit/phpunit": "^5.3"
