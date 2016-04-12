@@ -1,6 +1,8 @@
 Guzzle Middleware that adds one or more query parameters to all requests
 for a client.
 
+[![Build Status](https://travis-ci.org/emarref/guzzle-param-middleware.svg?branch=master)](https://travis-ci.org/emarref/guzzle-param-middleware)
+
 ## Usage
 
 ```php
